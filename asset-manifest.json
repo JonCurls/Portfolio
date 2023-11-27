@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio/.git/static/css/main.f957f038.css",
-    "main.js": "/Portfolio/.git/static/js/main.acb5f388.js",
-    "static/media/patio.PNG": "/Portfolio/.git/static/media/patio.eda5d9cae3928d7ed1d7.PNG",
-    "static/media/react.png": "/Portfolio/.git/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/cashTracker.PNG": "/Portfolio/.git/static/media/cashTracker.6f71142a0fbad8b5e42e.PNG",
-    "static/media/codeQuiz.PNG": "/Portfolio/.git/static/media/codeQuiz.f0d94139d32007a84fd5.PNG",
-    "static/media/node.png": "/Portfolio/.git/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/fantasyChat.PNG": "/Portfolio/.git/static/media/fantasyChat.057960baf084b5b15458.PNG",
-    "static/media/workScheduler.PNG": "/Portfolio/.git/static/media/workScheduler.86a67693b6d2d92ae315.PNG",
-    "static/media/mongo.png": "/Portfolio/.git/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/github.png": "/Portfolio/.git/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/Portfolio/.git/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/Portfolio/.git/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/Portfolio/.git/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/Portfolio/.git/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/Portfolio/.git/index.html",
-    "main.f957f038.css.map": "/Portfolio/.git/static/css/main.f957f038.css.map",
-    "main.acb5f388.js.map": "/Portfolio/.git/static/js/main.acb5f388.js.map"
+    "main.css": "/Portfolio/static/css/main.f957f038.css",
+    "main.js": "/Portfolio/static/js/main.a0b00e68.js",
+    "static/media/patio.PNG": "/Portfolio/static/media/patio.eda5d9cae3928d7ed1d7.PNG",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/cashTracker.PNG": "/Portfolio/static/media/cashTracker.6f71142a0fbad8b5e42e.PNG",
+    "static/media/codeQuiz.PNG": "/Portfolio/static/media/codeQuiz.f0d94139d32007a84fd5.PNG",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/fantasyChat.PNG": "/Portfolio/static/media/fantasyChat.057960baf084b5b15458.PNG",
+    "static/media/workScheduler.PNG": "/Portfolio/static/media/workScheduler.86a67693b6d2d92ae315.PNG",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.f957f038.css.map": "/Portfolio/static/css/main.f957f038.css.map",
+    "main.a0b00e68.js.map": "/Portfolio/static/js/main.a0b00e68.js.map"
   },
   "entrypoints": [
     "static/css/main.f957f038.css",
-    "static/js/main.acb5f388.js"
+    "static/js/main.a0b00e68.js"
   ]
 }
