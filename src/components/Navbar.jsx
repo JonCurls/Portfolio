@@ -1,11 +1,5 @@
 import React, { useState } from "react";
-import {
-  FaBars,
-  FaTimes,
-  FaGithub,
-  FaLinkedin,
-  FaFacebook,
-} from "react-icons/fa";
+import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
@@ -92,38 +86,46 @@ export const Navbar = () => {
       {/* social icons */}
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
+          {/* LinkedIn */}
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-700">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https:www.linkedin.com/in/jonathan-e-franklin"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
           </li>
+          {/* Github */}
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-black">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/JonCurls"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Github <FaGithub size={30} />
             </a>
           </li>
+          {/* Email */}
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="mailto:Jonathan.E.Franklin@icloud.com?subject=Subject&body=Body%20goes%20here"
             >
               Email <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
+          {/* Resume */}
+          {/* <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="/"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>
