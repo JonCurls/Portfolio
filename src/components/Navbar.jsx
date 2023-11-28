@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+// import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
 
 export const Navbar = () => {
@@ -10,8 +10,10 @@ export const Navbar = () => {
 
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
-      <div>
-        <h1>JF</h1>
+      <div className="@apply px-4 @apply cursor-pointer">
+        <Link to="home" smooth={true} duration={500}>
+          JF
+        </Link>
       </div>
 
       {/* menu */}
