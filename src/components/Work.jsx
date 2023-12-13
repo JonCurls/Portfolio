@@ -27,7 +27,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                React App: Patio
               </span>
               <div className="pt-8 text-center">
                 <a href="https://joncurls.github.io/Patio/">
@@ -50,7 +50,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React App: Patio
+                React App: Fantasy Chat
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -97,7 +97,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                React App: Tracker
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -121,7 +121,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                React App: Code Quiz
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -144,7 +144,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                React App: Scheduler
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
