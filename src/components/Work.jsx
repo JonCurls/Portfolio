@@ -27,15 +27,15 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                React JS Application Patio
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/JonCurls/Patio">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://joncurls.github.io/Patio/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 text-lg">
                     Code
                   </button>
